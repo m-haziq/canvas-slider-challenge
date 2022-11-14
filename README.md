@@ -12,4 +12,4 @@
 <!-- short description about the code flow -->
 
 # Instructions to run this Project 
-    Open index.htlm on any latest browser(Chrome, Firefox, Safari)
+    Double click to open index.html on any latest browser(Chrome, Firefox, Safari)
